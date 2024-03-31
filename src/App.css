@@ -1,5 +1,12 @@
 .App {
-  text-align: center;
+  width: 100%;
+  min-height: 1080px;
+  background-color: #0C0519;
+  font-family: Inter;
+  background-image: url('./images/Header_background.png');
+  background-size: 100% 833px;
+  background-repeat: no-repeat;
+  color: #fff;
 }
 
 .App-logo {
@@ -32,6 +39,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

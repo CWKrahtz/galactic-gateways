@@ -1,0 +1,70 @@
+.header-outer-content {
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff
+}
+
+.header-content {
+    height: 822px;
+    left: 15%;
+    top: 0%;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    gap: 32px;
+    display: inline-flex;
+}
+
+.header-question {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.header-heading {
+    text-align: center;
+    font-size: 96px;
+    font-weight: 600;
+    font-family: "Bebas Neue", sans-serif;
+    line-height: 100px;
+    letter-spacing: 5.76px;
+    word-wrap: break-word;
+}
+
+.header-paragragh {
+    width: 676px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.header-button-content {
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    display: inline-flex;
+}
+
+.header-button-des {
+    padding: 16px 80px 16px 80px;
+    background-color: #7920C2;
+    border-radius: 100px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+}
+
+.header-button-sign {
+    padding: 16px 80px 16px 80px;
+    background-color: #F2994A;
+    border-radius: 100px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+}
