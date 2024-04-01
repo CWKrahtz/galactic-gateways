@@ -1,0 +1,97 @@
+.cards-body {
+    width: 1440px;
+    height: 855px;
+}
+
+.cards-body-heading {
+    width: 714px;
+    margin-left: 376px;
+    margin-top: 128px;
+    text-align: center;
+    color: #fff;
+    font-size: 59px;
+    font-family: "Bedas Neue", sans-serif;
+    font-weight: 400;
+    /* line-height: 61.60px; */
+    word-wrap: break-word;
+}
+
+.cards-body-text {
+    width: 574px;
+    margin-left: 445px;
+    margin-top: 88px;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.cards-container {
+    width: 1440px;
+    margin-left: 0;
+    margin-top: 122px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    display: inline-flex;
+}
+
+.cards-content {
+    width: 377px;
+    height: 383px;
+    position: relative;
+}
+
+.cards-background {
+    width: 377px;
+    height: 288px;
+    left: 0; 
+    top: 95px;
+    position: absolute;
+    background: linear-gradient(360deg, #180C60 0%, rgba(49.50, 24.75, 198, 0) 100%);
+    border-radius: 30px;
+}
+
+.cards {
+    width: 313px;
+    height: 351px;
+    left: 32px;
+    top: 0;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 18px;
+    display: inline-flex;
+}
+
+.cards-image {
+    width: 200px;
+    height: 200px;
+}
+
+.cards-heading {
+    width: 313px;
+    height: 56px;
+    color: #fff;
+    font-size: 32;
+    font-family: "Bedas Neue", sans-serif;
+    font-weight: 400;
+    line-height: 35.20px;
+    word-wrap: break-word;
+}
+
+.cards-block {
+    width: 23px;
+    height: 0px;
+    border: 4px #F2994A solid;
+}
+
+.cards-text {
+    width: 313px;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}

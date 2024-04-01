@@ -6,9 +6,9 @@
 
 .header-content {
     height: 822px;
-    left: 15%;
-    top: 0%;
-    position: absolute;
+    margin-left: 15%;
+    margin-top: 0%;
+    /* position: absolute; */
     flex-direction: column;
     justify-content: center;
     gap: 32px;
