@@ -11,7 +11,7 @@ function Cards() {
             <div className='cards-body-text'>Explore three breathtaking destinations, each with its own unique charm and mystery.</div>
             <div className='cards-container'>
                 <div className='cards-content'>
-                    <div className='cards-background' />
+                    {/* <div className='cards-background' /> */}
                     <div className='cards'>
                         <img className='cards-image' src={Mars2} alt='Mars 2'/>
                         <div className='cards-heading'>Mars</div>

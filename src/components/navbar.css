@@ -38,6 +38,16 @@
 
 .nav-text {
     word-wrap: break-word;
+    margin-bottom: 5px;
+}
+
+.hover-block {
+    width: 23px;
+    height: 0px;
+    border: 3px solid #7920C2;
+    border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a {
@@ -61,4 +71,13 @@ a {
     display: inline-flex;
     position: absolute;
     word-wrap: break-word;
+}
+
+.nav-right-content:hover {
+    background: linear-gradient(135deg, #F2994A 0%, #CE7629 100%);
+    border: none;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }

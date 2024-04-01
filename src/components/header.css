@@ -58,6 +58,11 @@
     display: flex;
 }
 
+.header-button-des:hover {
+    background: linear-gradient(136deg, #7920C2 0%, #6D1BB0 100%); 
+    box-shadow: 7px 11px 12px rgba(121, 32, 194, 0.09);
+}
+
 .header-button-sign {
     padding: 16px 80px 16px 80px;
     background-color: #F2994A;
@@ -67,4 +72,9 @@
     align-items: center;
     gap: 10px;
     display: flex;
+}
+
+.header-button-sign:hover {
+    background: linear-gradient(135deg, #F2994A 0%, #CE7629 100%); 
+    box-shadow: 7px 11px 12px rgba(242, 153, 74, 0.09);
 }
