@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/galactic-gateways/static/css/main.b91c8009.css",
+    "main.js": "/galactic-gateways/static/js/main.68031849.js",
+    "static/media/mobile_app_background.png": "/galactic-gateways/static/media/mobile_app_background.a84c9156d70f46b4293c.png",
+    "static/media/Header_background.png": "/galactic-gateways/static/media/Header_background.90eed9170b151be8c255.png",
+    "static/media/Apple iPhone 15 Pro White Titanium 1.png": "/galactic-gateways/static/media/Apple iPhone 15 Pro White Titanium 1.35dc4514112461073c94.png",
+    "static/media/astro.png": "/galactic-gateways/static/media/astro.83b2192fc36349edd7ac.png",
+    "static/media/mars (3) 3.png": "/galactic-gateways/static/media/mars (3) 3.bf5ef538b7968e2fc022.png",
+    "static/media/mars (3) 1.png": "/galactic-gateways/static/media/mars (3) 1.32d271f0054305e4fe7a.png",
+    "index.html": "/galactic-gateways/index.html",
+    "main.b91c8009.css.map": "/galactic-gateways/static/css/main.b91c8009.css.map",
+    "main.68031849.js.map": "/galactic-gateways/static/js/main.68031849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b91c8009.css",
+    "static/js/main.68031849.js"
+  ]
+}
