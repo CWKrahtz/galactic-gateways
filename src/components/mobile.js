@@ -5,7 +5,7 @@ import Astro from '../images/astro.png'
 function Mobile() {
 
     return (
-        <div className='mobile-container'>
+        <div className='mobile-container' id='mobile'>
             <div className='mobile-header'>THE STARS IN YOUR POCKET... Coming soon</div>
             <div className='mobile-text'>We are very excited to launch our very own Celestial Voyages mobile application coming soon to the App Store & Google Play Store.</div>
             <img className='mobile-image-frame' src={Phone} alt='Mobile Screen' />

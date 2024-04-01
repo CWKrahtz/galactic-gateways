@@ -9,17 +9,22 @@ function NavigationBar() {
                     <img className="nav-image" src={Logo} alt="Logo" />
                     <div className="nav-text-display">
                         <div className="nav-text">
-                            <a href='/'>
+                            <a href='#header'>
                                 Home
                             </a>
                         </div>
                     </div>
                     <div className="nav-text-display">
-                        <div className="nav-text">Destination</div>
+                        <a href='#destination'>
+                            <div className="nav-text">Destination</div>
+                        </a>
                     </div>
                 </div>
                 <div className="nav-right-content">
-                    <div className="nav-button">Get the App</div>
+                    <a href='#mobile'>
+                        <div className="nav-button">Get the App</div>
+                    </a>
+
                 </div>
 
             </div>

@@ -6,7 +6,7 @@ import Mars1 from '../images/mars (3) 1.png'
 function Cards() {
 
     return (
-        <div className='cards-body'>
+        <div className='cards-body' id='destination'>
             <div className='cards-body-heading'>A Stellar Selection</div>
             <div className='cards-body-text'>Explore three breathtaking destinations, each with its own unique charm and mystery.</div>
             <div className='cards-container'>

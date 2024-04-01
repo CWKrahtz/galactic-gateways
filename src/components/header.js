@@ -3,7 +3,7 @@ import './header.css'
 function HeaderCover() {
 
     return (
-        <div className="header-outer-content">
+        <div className="header-outer-content" id='header'>
             <div className="header-content">
                 <div className="header-question">Tired Of Global Warming?</div>
                 <div className="header-heading">VISIT A <br />DIFFERENT PLANET</div>
